@@ -1,0 +1,16 @@
+.DS_Store
+node_modules
+/build
+/.svelte-kit
+/package
+.env
+.env.*
+!.env.example
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# 本地 cargo 镜像配置（区域相关，不强制其他贡献者使用；见 README 镜像加速一节）
+/.cargo/config.toml
+
+# 替换时生成的备份目录（含手动测试 test-fixtures 时产生的）
+*-backup-*/

@@ -35,7 +35,7 @@
 
 ## 📦 安装（普通用户）
 
-到 [Releases](#) 下载对应安装包并运行：
+到 [Releases](https://github.com/geekie-yuan/replaceMd/releases) 下载对应安装包并运行：
 
 | 安装包 | 说明 |
 |--------|------|
